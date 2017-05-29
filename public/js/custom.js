@@ -2,9 +2,9 @@
 * Constants used in determining how often to refresh page contents.
 */
 // Users will also be refreshed on relevant clicks
-var INTERVAL_TO_REFRESH_USERS = 60000;
-var INTERVAL_TO_REFRESH_CONVERSATIONS = 50000;
-var INTERVAL_TO_REFRESH_MESSAGES = 40000;
+var INTERVAL_TO_REFRESH_USERS = 40000;
+var INTERVAL_TO_REFRESH_CONVERSATIONS = 25000;
+var INTERVAL_TO_REFRESH_MESSAGES = 3000;
 var ACTIVE_CONVERSATION_ID;
 // Current security risk, should be moved to server in PHP sessions once working
 var ACTIVE_UID = -1;
