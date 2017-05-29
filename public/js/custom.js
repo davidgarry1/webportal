@@ -442,7 +442,7 @@ $(window).on('load',function() {
     // Animate loader off screen
     $(".se-pre-con").fadeOut("fast");
     $("body").removeClass("preload");
-  }, 1);
+  }, 2000);
 });
 
 /**
