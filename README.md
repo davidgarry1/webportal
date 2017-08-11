@@ -1,5 +1,7 @@
 ## To Use, Visit: <a href="http://codeu.dgarry.com" target="_blank">codeu.dgarry.com</a>
 
+# For the Desktop-Java App, Visit: <a href="https://github.com/jonathanloganmoran/codeu_project_2017" target="_blank">jonathanloganmoran/codeu_project_2017</a>
+
 ## To Run Locally:
 Install composer, a package manager for PHP.
 
